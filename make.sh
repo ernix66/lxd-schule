@@ -1,10 +1,7 @@
 #!/bin/bash
 
-# Basisname des Containers
+# Basisname des Containers der kopiert werden soll
 BASE_CONTAINER="schule1"
-
-# Anzahl der zu erstellenden Container
-#NUM_CONTAINERS=10
 
 # Präfix für die neuen Container
 CONTAINER_PREFIX="uc"
